@@ -16,9 +16,9 @@ Watch the [Functions, Variables](https://schoolsnsw.sharepoint.com/:v:/r/sites/T
 8. Comments
 9. Variables
 10. Strings
-11. Interger
+11. Integer- a data type that contains a negative or positive number
 12. Float
-13. Parenthasis
+13. Parenthesis
 14. Square Brackets
 15. format string
 16. Define
