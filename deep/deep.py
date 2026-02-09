@@ -1,6 +1,5 @@
-question = input("What is the great question of life? ")
-list = ["fourty two", "fourty-two", "42"]
-if question in list:
-    print("yes")
+question = input("What is the Great Question of Life? ")
+if question in ["fourty-two", "fourty two", "42"]:
+    print("yess")
 else:
-    print("NOOOo")
+    print("NOO")
