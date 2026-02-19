@@ -18,4 +18,4 @@ elif y == "/":
     answer = x / z
     print(answer)
 else:
-    print("########################")
+    print("I am not able to calculate that for u! ")
